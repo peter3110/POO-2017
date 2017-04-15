@@ -1,0 +1,14 @@
+{
+	"category" : "TP1-ING",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "TerrenoRocoso",
+	"pools" : [
+		 ],
+	"super" : "Terreno",
+	"type" : "normal" }

@@ -1,0 +1,17 @@
+{
+	"category" : "TP1-ING",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"yacimiento",
+		"pozos",
+		"profundidad",
+		"terreno" ],
+	"name" : "Parcela",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

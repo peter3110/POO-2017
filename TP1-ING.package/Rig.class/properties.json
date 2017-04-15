@@ -1,0 +1,17 @@
+{
+	"category" : "TP1-ING",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"poderExcavacion",
+		"costoAlquiler",
+		"consumicionDiaria",
+		"estaActivo" ],
+	"name" : "Rig",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

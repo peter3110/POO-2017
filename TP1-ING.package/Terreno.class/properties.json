@@ -1,0 +1,14 @@
+{
+	"category" : "TP1-ING",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "Terreno",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

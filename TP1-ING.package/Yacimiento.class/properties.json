@@ -1,0 +1,21 @@
+{
+	"category" : "TP1-ING",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"volumen",
+		"petroleo",
+		"agua",
+		"gas",
+		"hectareas",
+		"parcelas",
+		"rigs",
+		"simulador" ],
+	"name" : "Yacimiento",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

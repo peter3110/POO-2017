@@ -1,0 +1,14 @@
+{
+	"category" : "TP1-ING",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "TestsSimulacion",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

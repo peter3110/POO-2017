@@ -1,0 +1,15 @@
+{
+	"category" : "TP1-ING",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"cantidadDePozos",
+		"maxCantRigsSimultaneos" ],
+	"name" : "Simulador",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

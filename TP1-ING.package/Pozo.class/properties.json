@@ -1,0 +1,18 @@
+{
+	"category" : "TP1-ING",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"parcela",
+		"profundidadActual",
+		"estaHabilitado",
+		"presion",
+		"rigs" ],
+	"name" : "Pozo",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
